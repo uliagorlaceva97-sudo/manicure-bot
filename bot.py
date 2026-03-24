@@ -1,3 +1,4 @@
+# version 1.0
 import asyncio
 import sqlite3
 from datetime import datetime, timedelta
